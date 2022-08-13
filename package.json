@@ -1,14 +1,14 @@
 {
   "name": "nestjs-typeorm-paginate",
   "author": {
-    "name": "Ashleigh Simonelli",
-    "email": "ashleighsimonelli@gmail.com",
-    "url": "http://ashleighsimonelli.co.uk"
+    "name": "WayneChu",
+    "email": "wayne.chu@simpos.com.tw",
+    "url": "https://github.com/WayneChu0515"
   },
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjsx/nestjs-typeorm-paginate"
+    "url": "https://github.com/WayneChu0515/nestjs-typeorm-paginate"
   },
   "description": "A simple pagination function to build a pagination object with types",
   "keywords": [
