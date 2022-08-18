@@ -8,14 +8,16 @@
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WayneChu0515/nestjs-typeorm-paginate"
+    "url": "https://github.com/SimposCorp/nestjs-typeorm-paginate"
   },
   "description": "A simple pagination function to build a pagination object with types",
   "keywords": [
     "nestjs",
     "typeorm",
     "pagination",
-    "paginate"
+    "paginate",
+    "simpos",
+    "waynechu"
   ],
   "devDependencies": {
     "@nestjs/common": "^7.5.5",
